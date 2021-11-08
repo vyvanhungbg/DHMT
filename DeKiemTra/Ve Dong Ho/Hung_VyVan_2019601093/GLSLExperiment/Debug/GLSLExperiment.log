@@ -1,0 +1,11 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  example1.cpp
+D:\DO_HOA_MAY_TINH\KIEMTRA\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(36,18): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\DO_HOA_MAY_TINH\KIEMTRA\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(36,34): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\DO_HOA_MAY_TINH\KIEMTRA\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(37,19): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\DO_HOA_MAY_TINH\KIEMTRA\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(143,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\DO_HOA_MAY_TINH\KIEMTRA\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(145,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\DO_HOA_MAY_TINH\KIEMTRA\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(147,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\DO_HOA_MAY_TINH\KIEMTRA\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(149,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\DO_HOA_MAY_TINH\KIEMTRA\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(151,27): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  GLSLExperiment.vcxproj -> D:\DO_HOA_MAY_TINH\KIEMTRA\Hung_VyVan_2019601093\Debug\GLSLExperiment.exe
