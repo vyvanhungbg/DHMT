@@ -1,0 +1,110 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  example1.cpp
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(40,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(45,43): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(46,44): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(178,28): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(179,20): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(180,24): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(182,33): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(186,24): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(188,29): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(191,27): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(193,23): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(201,29): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(227,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(230,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(233,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(236,30): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(242,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(254,84): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(257,88): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(262,88): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(265,88): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(266,88): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(286,46): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(287,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(300,87): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(301,64): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(305,87): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(306,64): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(309,79): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(310,66): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(311,104): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(312,60): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(317,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(321,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(345,140): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(346,56): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(348,72): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(349,31): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(373,49): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(376,49): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(385,31): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(393,50): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(407,49): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(409,90): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(409,63): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(409,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(412,49): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(414,90): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(414,63): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(414,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(417,61): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(419,90): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(419,63): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(419,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(422,55): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(422,122): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(424,91): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(424,63): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(424,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(431,176): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(432,90): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(432,74): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(432,42): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(435,56): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(439,16): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(441,92): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(441,64): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(441,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(445,65): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(447,109): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(447,70): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(447,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(450,57): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(452,91): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(452,63): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(452,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(455,50): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(458,16): warning C4244: 'initializing': conversion from 'int' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(460,92): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(460,64): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(460,37): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(466,66): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(466,37): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(471,51): warning C4244: 'argument': conversion from 'double' to 'const GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(474,91): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(474,63): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(474,36): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(482,74): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(482,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(536,20): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(536,30): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(537,20): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(537,30): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(538,25): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(538,37): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(539,25): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(539,37): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(540,24): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(540,37): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(541,24): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(541,37): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(656,30): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(662,30): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(668,30): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(674,30): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(681,26): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\GLSLExperiment\example1.cpp(691,26): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+  GLSLExperiment.vcxproj -> D:\DO_HOA_MAY_TINH\GIT\Hung_VyVan_2019601093\Debug\GLSLExperiment.exe
